@@ -8,3 +8,4 @@ Key Results: The random forest regressor emerged as the most effective model, ac
 
 Conclusions: The project successfully developed a predictive model that can estimate NYC real estate sale prices with a high degree of accuracy. The findings underscore the importance of location, property attributes, and market conditions in determining real estate values. Future work could explore the integration of more granular data, such as neighborhood trends and economic indicators, to further refine the model's predictions.
 
+  
